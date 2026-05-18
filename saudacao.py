@@ -1,4 +1,4 @@
 def saudacao(nome):
-  return f'boa tarde, {mome}'
+  return f'boa tarde, {nome}'
 
 print(saudacao('mundo'))
