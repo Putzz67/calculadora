@@ -1,4 +1,8 @@
+# saudacao.py
 def saudacao(nome):
-  return f'bom dia , {nome}'
+return f"Olá, {nome}!"
+print(saudacao("Mundo"))
 
-print(saudacao('world🦨'))
+# Adicione ao final do saudacao.py:
+def despedida(nome):
+return f"Até mais, {nome}!"
