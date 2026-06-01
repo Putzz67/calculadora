@@ -1,4 +1,4 @@
 def saudacao(nome):
-  return f'bom dia , {nome}'
+  return f"Bom dia, {nome}! Tenha um ótimo dia!"
 
 print(saudacao('world🦨'))
